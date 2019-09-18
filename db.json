@@ -29,24 +29,31 @@
     "name": "typicode"
   },
   "documents": [
+     {
+      "id": 4,
+      "name": "Documenti Condivisi",
+      "type": "folder",
+      "phase": 0,
+      "create_at": "20/05/2019"
+    },
     {
       "id": 1,
       "name": "Documento pubblico 1",
-      "type": "Word",
+      "type": "word",
       "phase": 0,
       "create_at": "20/05/2019"
     },
     {
       "id": 2,
       "name": "Documento pubblico 2",
-      "type": "Word",
+      "type": "word",
       "phase": 1,
       "create_at": "20/05/2019"
     },
     {
       "id": 3,
       "name": "Documento pubblico 3",
-      "type": "Word",
+      "type": "word",
       "phase": 2,
       "create_at": "20/05/2019"
     }
