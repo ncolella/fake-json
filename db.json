@@ -33,19 +33,22 @@
       "id": 1,
       "name": "Documento pubblico 1",
       "type": "Word",
-      "phase": 0
+      "phase": 0,
+      "create_at": "20/05/2019"
     },
     {
       "id": 2,
       "name": "Documento pubblico 2",
       "type": "Word",
-      "phase": 1
+      "phase": 1,
+      "create_at": "20/05/2019"
     },
     {
       "id": 3,
       "name": "Documento pubblico 3",
       "type": "Word",
-      "phase": 2
+      "phase": 2,
+      "create_at": "20/05/2019"
     }
   ]
 }
