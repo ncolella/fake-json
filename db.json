@@ -31,19 +31,19 @@
   "documents": [
     {
       "id": 1,
-      "name": "Documenti pubblico 1",
+      "name": "Documento pubblico 1",
       "type": "Word",
       "phase": 0
     },
     {
       "id": 2,
-      "name": "Documenti pubblico 2",
+      "name": "Documento pubblico 2",
       "type": "Word",
       "phase": 1
     },
     {
       "id": 3,
-      "name": "Documenti pubblico 3",
+      "name": "Documento pubblico 3",
       "type": "Word",
       "phase": 2
     }
