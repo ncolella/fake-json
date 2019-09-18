@@ -1,4 +1,33 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "documents": [
     {
       "id": 1,
@@ -6,17 +35,17 @@
       "type": "Word",
       "phase": 0
     },
-     {
+    {
       "id": 2,
       "name": "Documenti pubblico 2",
       "type": "Word",
       "phase": 1
     },
-     {
+    {
       "id": 3,
       "name": "Documenti pubblico 3",
       "type": "Word",
       "phase": 2
     }
-    ]
+  ]
 }
