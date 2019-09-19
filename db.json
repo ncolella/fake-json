@@ -32,28 +32,24 @@
      {
       "id": 4,
       "name": "Documenti Condivisi",
-      "type": "Folder",
       "phase": 0,
       "create_at": "20/05/2019"
     },
     {
       "id": 1,
-      "name": "Documento pubblico 1",
-      "type": "Word",
+      "name": "Documento pubblico 1.doc",
       "phase": 0,
       "create_at": "20/05/2019"
     },
     {
       "id": 2,
-      "name": "Documento pubblico 2",
-      "type": "Word",
+      "name": "Documento pubblico 2.doc",
       "phase": 1,
       "create_at": "20/05/2019"
     },
     {
       "id": 3,
-      "name": "Documento pubblico 3",
-      "type": "Word",
+      "name": "Documento pubblico 3.doc",
       "phase": 2,
       "create_at": "20/05/2019"
     }
