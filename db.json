@@ -33,25 +33,29 @@
       "id": 4,
       "name": "Documenti Condivisi subfolder",
       "phase": 0,
-      "creationDate": "20/05/2019"
+      "creationDate": "20/05/2019",
+       "typology": "shared"
     },
     {
       "id": 1,
       "name": "Documento pubblico 1.doc",
       "phase": 0,
-      "creationDate": "20/05/2019"
+      "creationDate": "20/05/2019",
+         "typology": "shared"
     },
     {
       "id": 2,
       "name": "Documento pubblico 2.doc",
       "phase": 1,
-      "creationDate": "20/05/2019"
+      "creationDate": "20/05/2019",
+         "typology": "shared"
     },
     {
       "id": 3,
       "name": "Documento pubblico 3.doc",
       "phase": 2,
-      "creationDate": "20/05/2019"
+      "creationDate": "20/05/2019",
+         "typology": "shared"
     }
   ]
 }
