@@ -56,6 +56,13 @@
       "phase": 2,
       "creationDate": "20/05/2019",
          "typology": "shared"
+    },
+      {
+      "id": 4,
+      "name": "Documento interno 1.doc",
+      "phase": 0,
+      "creationDate": "20/05/2019",
+         "typology": "internal"
     }
   ]
 }
