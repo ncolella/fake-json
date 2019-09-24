@@ -34,8 +34,8 @@
       "name": "Documenti Condivisi subfolder",
       "phase": 0,
       "creationDate": "20/05/2019",
-       "typology": "shared"
-       "documents": [
+       "typology": "shared",
+        "documents": [
      {
       "id": 41,
       "name": "Documento sub 1.doc",
@@ -43,6 +43,7 @@
       "creationDate": "20/05/2019",
        "typology": "shared"
     }]
+      
     },
     {
       "id": 1,
@@ -73,4 +74,5 @@
          "typology": "internal"
     }
   ]
+
 }
