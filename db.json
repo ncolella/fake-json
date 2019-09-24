@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-{ "documents": [
+"documents": [
      {
       "id": 4,
       "name": "Documenti Condivisi subfolder",
@@ -81,5 +81,5 @@
          "typology": "internal"
     }
   ]
-}
+
 }
