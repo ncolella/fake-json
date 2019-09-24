@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "documents": [
+{ "documents": [
      {
       "id": 4,
       "name": "Documenti Condivisi subfolder",
@@ -42,6 +42,13 @@
       "phase": 1,
       "creationDate": "20/05/2019",
        "typology": "shared"
+    },
+     {
+      "id": 42,
+      "name": "Documento sub 2.doc",
+      "phase": 0,
+      "creationDate": "20/05/2019",
+       "typology": "internal"
     }]
       
     },
@@ -74,5 +81,5 @@
          "typology": "internal"
     }
   ]
-
+}
 }
