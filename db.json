@@ -53,8 +53,7 @@
       "name": "Subfolder Subfolder Documenti",
       "parentId": 4,
       "creationDate": "20/05/2019",
-       "typology": "shared",
-           "documents":  "documents": [
+           "documents": [
      {
       "id": 431,
       "name": "Documento sub sub 1.doc",
