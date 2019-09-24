@@ -67,6 +67,18 @@
       "phase": 0,
       "creationDate": "20/05/2019",
        "typology": "internal"
+    }, {
+       "id": 433,
+      "name": "Subfolder Subfolder Subfolder Documenti",
+      "phase": 0,
+      "creationDate": "20/05/2019",
+      "documents": [{
+      "id": 4331,
+      "name": "Documento sub sub sub 1.doc",
+      "phase": 0,
+      "creationDate": "20/05/2019",
+       "typology": "internal"
+    }]
     }]}
 ]},
     {
