@@ -32,7 +32,6 @@
      {
       "id": 4,
       "name": "Subfolder Documenti",
-      "phase": 0,
       "creationDate": "20/05/2019",
         "documents": [
      {
@@ -48,9 +47,29 @@
       "phase": 0,
       "creationDate": "20/05/2019",
        "typology": "internal"
-    }]
-      
     },
+         {
+      "id": 43,
+      "name": "Subfolder Subfolder Documenti",
+      "parentId": 4,
+      "creationDate": "20/05/2019",
+       "typology": "shared",
+           "documents":  "documents": [
+     {
+      "id": 431,
+      "name": "Documento sub sub 1.doc",
+      "phase": 1,
+      "creationDate": "20/05/2019",
+       "typology": "shared"
+    },
+     {
+      "id": 432,
+      "name": "Documento sub sub 2.doc",
+      "phase": 0,
+      "creationDate": "20/05/2019",
+       "typology": "internal"
+    }]}
+]},
     {
       "id": 1,
       "name": "Documento pubblico 1.doc",
