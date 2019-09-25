@@ -39,30 +39,7 @@
           "name": "Documento sub 1.doc",
           "phase": 1,
           "creationDate": "20/05/2019",
-          "typology": "shared",
-          "caseCode": {
-            "code": 3,
-            "name": "x",
-            "type": "y"
-          },
-          "creationUser": {
-            "name": "Rick"
-          },
-          "category": "lalalal",
-          "type": "aaaa",
-          "description": "bbbb",
-          "tags ": [
-            "a",
-            "b",
-            "c"
-          ],
-          "versions": [
-            {
-              "id": "1",
-              "editDate": "20-05-2019",
-              "editUser": "Michele"
-            }
-          ]
+          "typology": "shared"
         },
         {
           "id": 42,
@@ -129,7 +106,30 @@
       "name": "Documento pubblico 3.doc",
       "phase": 2,
       "creationDate": "20/05/2019",
-      "typology": "shared"
+      "typology": "shared",
+       "caseCode": {
+            "code": 3,
+            "name": "x",
+            "type": "y"
+          },
+          "creationUser": {
+            "name": "Rick"
+          },
+          "category": "lalalal",
+          "type": "aaaa",
+          "description": "bbbb",
+          "tags ": [
+            "a",
+            "b",
+            "c"
+          ],
+          "versions": [
+            {
+              "id": "1",
+              "editDate": "20-05-2019",
+              "editUser": "Michele"
+            }
+          ]
     },
     {
       "id": 5,
