@@ -72,6 +72,7 @@
               "id": 433,
               "name": "Subfolder Subfolder Subfolder Documenti",
               "phase": 0,
+              "parentId": 43,
               "creationDate": "20/05/2019",
               "documents": [
                 {
