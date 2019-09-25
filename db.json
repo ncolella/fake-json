@@ -28,87 +28,115 @@
   "profile": {
     "name": "typicode"
   },
-"documents": [
-     {
+  "documents": [
+    {
       "id": 4,
       "name": "Subfolder Documenti",
       "creationDate": "20/05/2019",
-        "documents": [
-     {
-      "id": 41,
-      "name": "Documento sub 1.doc",
-      "phase": 1,
-      "creationDate": "20/05/2019",
-       "typology": "shared"
+      "documents": [
+        {
+          "id": 41,
+          "name": "Documento sub 1.doc",
+          "phase": 1,
+          "creationDate": "20/05/2019",
+          "typology": "shared",
+          "caseCode": {
+            "code": 3,
+            "name": "x",
+            "type": "y"
+          },
+          "creationUser": {
+            "name": "Rick"
+          },
+          "category": "lalalal",
+          "type": "aaaa",
+          "description": "bbbb",
+          "tags ": [
+            "a",
+            "b",
+            "c"
+          ],
+          "versions": [
+            {
+              "id": "1",
+              "editDate": "20-05-2019",
+              "editUser": "Michele"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Documento sub 2.doc",
+          "phase": 0,
+          "creationDate": "20/05/2019",
+          "typology": "internal"
+        },
+        {
+          "id": 43,
+          "name": "Subfolder Subfolder Documenti",
+          "parentId": 4,
+          "creationDate": "20/05/2019",
+          "documents": [
+            {
+              "id": 431,
+              "name": "Documento sub sub 1.doc",
+              "phase": 1,
+              "creationDate": "20/05/2019",
+              "typology": "shared"
+            },
+            {
+              "id": 432,
+              "name": "Documento sub sub 2.doc",
+              "phase": 0,
+              "creationDate": "20/05/2019",
+              "typology": "internal"
+            },
+            {
+              "id": 433,
+              "name": "Subfolder Subfolder Subfolder Documenti",
+              "phase": 0,
+              "creationDate": "20/05/2019",
+              "documents": [
+                {
+                  "id": 4331,
+                  "name": "Documento sub sub sub 1.doc",
+                  "phase": 0,
+                  "creationDate": "20/05/2019",
+                  "typology": "internal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
-     {
-      "id": 42,
-      "name": "Documento sub 2.doc",
-      "phase": 0,
-      "creationDate": "20/05/2019",
-       "typology": "internal"
-    },
-         {
-      "id": 43,
-      "name": "Subfolder Subfolder Documenti",
-      "parentId": 4,
-      "creationDate": "20/05/2019",
-           "documents": [
-     {
-      "id": 431,
-      "name": "Documento sub sub 1.doc",
-      "phase": 1,
-      "creationDate": "20/05/2019",
-       "typology": "shared"
-    },
-     {
-      "id": 432,
-      "name": "Documento sub sub 2.doc",
-      "phase": 0,
-      "creationDate": "20/05/2019",
-       "typology": "internal"
-    }, {
-       "id": 433,
-      "name": "Subfolder Subfolder Subfolder Documenti",
-      "phase": 0,
-      "creationDate": "20/05/2019",
-      "documents": [{
-      "id": 4331,
-      "name": "Documento sub sub sub 1.doc",
-      "phase": 0,
-      "creationDate": "20/05/2019",
-       "typology": "internal"
-    }]
-    }]}
-]},
     {
       "id": 1,
       "name": "Documento pubblico 1.doc",
       "phase": 0,
       "creationDate": "20/05/2019",
-         "typology": "shared"
+      "typology": "shared"
     },
     {
       "id": 2,
       "name": "Documento pubblico 2.doc",
       "phase": 1,
       "creationDate": "20/05/2019",
-         "typology": "shared"
+      "typology": "shared"
     },
     {
       "id": 3,
       "name": "Documento pubblico 3.doc",
       "phase": 2,
       "creationDate": "20/05/2019",
-         "typology": "shared"
+      "typology": "shared"
     },
-      {
+    {
       "id": 5,
       "name": "Documento interno 1.doc",
       "phase": 0,
       "creationDate": "20/05/2019",
-         "typology": "internal"
+      "typology": "internal"
     }
   ]
-
 }
