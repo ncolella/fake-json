@@ -109,24 +109,29 @@
       "typology": "shared",
        "caseCode": {
             "code": 3,
-            "name": "x",
-            "type": "y"
+            "name": "Pratica-01",
+            "type": "case"
           },
           "creationUser": {
-            "name": "Rick"
+            "name": "Rick Dackard"
           },
-          "category": "lalalal",
-          "type": "aaaa",
-          "description": "bbbb",
+          "category": "Categoria 1",
+          "type": "Tipo 1",
+          "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
           "tags ": [
-            "a",
-            "b",
-            "c"
+            "aaaaa",
+            "bbbbbb",
+            "ccccc"
           ],
           "versions": [
             {
               "id": "1",
               "editDate": "20-05-2019",
+              "editUser": "Michele"
+            },
+             {
+              "id": "2",
+              "editDate": "21-05-2019",
               "editUser": "Michele"
             }
           ]
