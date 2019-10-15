@@ -39,6 +39,11 @@
           "name": "Documento sub 1.doc",
           "phase": 1,
           "creationDate": "20/05/2019",
+             "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
           "typology": "shared"
         },
         {
@@ -46,6 +51,11 @@
           "name": "Documento sub 2.doc",
           "phase": 0,
           "creationDate": "20/05/2019",
+             "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
           "typology": "internal"
         },
         {
@@ -59,6 +69,11 @@
               "name": "Documento sub sub 1.doc",
               "phase": 1,
               "creationDate": "20/05/2019",
+                 "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
               "typology": "shared"
             },
             {
@@ -66,6 +81,11 @@
               "name": "Documento sub sub 2.doc",
               "phase": 0,
               "creationDate": "20/05/2019",
+                 "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
               "typology": "internal"
             },
             {
@@ -80,6 +100,11 @@
                   "name": "Documento sub sub sub 1.doc",
                   "phase": 0,
                   "creationDate": "20/05/2019",
+                     "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
                   "typology": "internal"
                 }
               ]
@@ -93,6 +118,11 @@
       "name": "Documento pubblico 1.doc",
       "phase": 0,
       "creationDate": "20/05/2019",
+         "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
       "typology": "shared"
     },
     {
@@ -100,6 +130,11 @@
       "name": "Documento pubblico 2.doc",
       "phase": 1,
       "creationDate": "20/05/2019",
+         "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
       "typology": "shared"
     },
     {
@@ -142,7 +177,13 @@
       "name": "Documento interno 1.doc",
       "phase": 0,
       "creationDate": "20/05/2019",
+         "caseCode": {
+          "code": 97978,
+          "name": "Pratica-05",
+          "type": "contract"
+        },
       "typology": "internal"
+      
     }
   ]
 }
